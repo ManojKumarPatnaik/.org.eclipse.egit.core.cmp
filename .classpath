@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="BinarySearchTree/src/|GenericHashMapLinearProbing/HashTable/src/|SubstringSearch/src/|AVL/generic/AVL/src/|HashMapLinearProbing/src/|RedBlackTree/src/|Collections/src/|SortingAlgorithms/src/|LinkList/src/|HashMapChaining/src/|AVL/AVL/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="AVL/AVL/src"/>
+	<classpathentry kind="src" path="AVL/generic/AVL/src"/>
+	<classpathentry kind="src" path="BinarySearchTree/src"/>
+	<classpathentry kind="src" path="Collections/src"/>
+	<classpathentry kind="src" path="GenericHashMapLinearProbing/HashTable/src"/>
+	<classpathentry kind="src" path="HashMapChaining/src"/>
+	<classpathentry kind="src" path="HashMapLinearProbing/src"/>
+	<classpathentry kind="src" path="LinkList/src"/>
+	<classpathentry kind="src" path="RedBlackTree/src"/>
+	<classpathentry kind="src" path="SortingAlgorithms/src"/>
+	<classpathentry kind="src" path="SubstringSearch/src"/>
+	<classpathentry kind="output" path="AVL/AVL/bin"/>
+</classpath>
